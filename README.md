@@ -1,1 +1,2 @@
 # RoyciousProjectTask8
+This task was using dashboard that was created using Power BI to analyse supermarket sales performance. Interactive charts and slicers were used to visualise sales trends by month, city, and product line. KPI cards summarised key business metrics, while filters enabled users to explore the data dynamically. The dashboard provides clear insights into sales performance and customer purchasing patterns.
